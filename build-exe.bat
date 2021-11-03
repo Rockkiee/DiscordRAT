@@ -15,7 +15,7 @@ if [%a%] NEQ [] (
 :main
 echo.
 echo Name is: %a% 
-pyarmor pack --clean -n %a% -e "--onefile --noconsole --icon NONE --uac-admin" .\main.py
+pyarmor pack --clean -n %a% -e "--onefile --noconsole --icon NONE" .\main.py
 rmdir /s /q build
 EXIT /B %ERRORLEVEL% 
 
