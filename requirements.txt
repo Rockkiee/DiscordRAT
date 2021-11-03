@@ -1,0 +1,12 @@
+discord
+discord-py-slash-command
+discord-components
+pyarmor
+asyncio
+mss
+pyautogui
+pynput
+pycaw
+comtypes
+pypiwin32
+opencv-python

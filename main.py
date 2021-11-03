@@ -52,8 +52,7 @@ async def activity(client):
         if stop_threads:
             break
         window = win32gui.GetWindowText(win32gui.GetForegroundWindow())
-        game = discord.Game(f"Visiting: {window}")
-        await client.change_presence(status=discord.Status.online, activity=game)
+        await client.change_presence(status=discord.Status.online, activity=discord.Game(f"Visiting: {window}"))
         sleep(1)
 
 @client.event
