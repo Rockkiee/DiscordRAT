@@ -4,6 +4,10 @@
 <img src="https://img.shields.io/github/stars/Rdimo/DiscordRAT-Improved?color=333333&label=Stars&style=flat-square" </a>
 <img src="https://img.shields.io/github/forks/Rdimo/DiscordRAT-Improved?color=333333&label=Forks&style=flat-square" </a>
 </p>
+</p>
+<p align="center">
+<a href="https://github.com/Rdimo/DiscordRAT-Improved#setting-up-the-rat">Setting up the RAT</a> |
+</p>
 
 #### DiscordRAT-Improved was made by
 Love ❌ code ✅
