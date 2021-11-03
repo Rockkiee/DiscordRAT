@@ -105,7 +105,7 @@ make a messagebox popup on their screen with a custom message
 
 ---
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
 |⚠️・this Discord rat was made for educational purposes・⚠️|
 |-------------------------------------------------|
 By using DiscordRAT, you agree that you hold responsibility and accountability of any consequences caused by your actions
