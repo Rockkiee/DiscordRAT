@@ -31,6 +31,6 @@ Love ❌ code ✅
    - go to where it says `token = 'BOT_TOKE_HERE'` (line 35)
      - Replace `BOT_TOKE_HERE` with your bot token that you got from the [developer page](https://discord.com/developers)
        - go to where it says `g = [GUILD_ID_HERE]` (line 36)
-         - Replace `GUILD_ID_HERE` with the id of your server that you want the bot to be in ([where to find server id?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID))
+         - Replace `GUILD_ID_HERE` with the id of your server that you want the bot to be in ([get server id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID))
 5. Now your ready to invite your bot to your server, simply follow [this guide](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links)
 6. When your done with all of that, simply open **build-exe.bat** and enter a name for the exe and now your done!
