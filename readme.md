@@ -7,7 +7,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/Rdimo/DiscordRAT-Improved#setting-up-the-rat">Setting up the RAT</a> |
-<a href="https://github.com/Rdimo/DiscordRAT-Improved#commands">Commands</a>
+<a href="https://github.com/Rdimo/DiscordRAT-Improved#commands">Commands</a> |
+<a href="https://github.com/Rdimo/DiscordRAT-Improved#credits">Credits</a>
+<a href="https://rdimo.github.io/CheatAway/">Discord</a> |
 </p>
 
 #### DiscordRAT-Improved was made by
