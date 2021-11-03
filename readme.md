@@ -12,10 +12,10 @@
 <a href="https://rdimo.github.io/CheatAway/">Discord</a>
 </p>
 
-#### DiscordRAT-Improved was made by
+#### DiscordRAT was made by
 Love ❌ code ✅
 
-## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked DiscordRAT-Improved!
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked DiscordRAT!
 
 ---
 
