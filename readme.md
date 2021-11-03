@@ -15,7 +15,7 @@
 #### DiscordRAT was made by
 Love ❌ code ✅
 
-## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked DiscordRAT!
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked DiscordRAT!
 
 ### 🔰・Features
 * ` Slash Commands!`
