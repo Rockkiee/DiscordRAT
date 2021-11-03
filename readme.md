@@ -17,8 +17,6 @@ Love ❌ code ✅
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked DiscordRAT!
 
----
-
 ### 🔰・Features
 * ` Slash Commands!`
 * ` Many malicious commands`
