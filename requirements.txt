@@ -2,6 +2,7 @@ discord
 discord-py-slash-command
 discord-components
 pyarmor
+pyinstaller
 asyncio
 mss
 pyautogui
