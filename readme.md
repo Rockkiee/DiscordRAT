@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://img.shields.io/github/languages/top/Rdimo/DiscordRAT-Improved?style=flat-square" </a>
-<img src="https://img.shields.io/github/last-commit/Rdimo/DiscordRAT-Improved?style=flat-square" </a>
-<img src="https://img.shields.io/github/stars/Rdimo/DiscordRAT-Improved?color=333333&label=Stars&style=flat-square" </a>
-<img src="https://img.shields.io/github/forks/Rdimo/DiscordRAT-Improved?color=333333&label=Forks&style=flat-square" </a>
+<img src="https://img.shields.io/github/languages/top/Rdimo/DiscordRAT?style=flat-square" </a>
+<img src="https://img.shields.io/github/last-commit/Rdimo/DiscordRAT?style=flat-square" </a>
+<img src="https://img.shields.io/github/stars/Rdimo/DiscordRAT?color=333333&label=Stars&style=flat-square" </a>
+<img src="https://img.shields.io/github/forks/Rdimo/DiscordRAT?color=333333&label=Forks&style=flat-square" </a>
 </p>
 </p>
 <p align="center">
-<a href="https://github.com/Rdimo/DiscordRAT-Improved#setting-up-the-rat">Setting up the RAT</a> |
-<a href="https://github.com/Rdimo/DiscordRAT-Improved#commands">Commands</a> |
-<a href="https://github.com/Rdimo/DiscordRAT-Improved#credits">Credits</a> |
+<a href="https://github.com/Rdimo/DiscordRAT#setting-up-the-rat">Setting up the RAT</a> |
+<a href="https://github.com/Rdimo/DiscordRAT#commands">Commands</a> |
+<a href="https://github.com/Rdimo/DiscordRAT#credits">Credits</a> |
 <a href="https://rdimo.github.io/CheatAway/">Discord</a>
 </p>
 
